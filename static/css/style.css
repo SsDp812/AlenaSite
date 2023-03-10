@@ -1,0 +1,63 @@
+*{
+    margin: 0 0 0 0px;
+    padding: 0 0 0 0;
+}
+
+.container {
+    background-image: url("bg.jpg");
+    height: 92vh;
+}
+.header {
+    height: 8vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkgrey;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+
+.header-line {
+    height: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.nav-item {
+    color: saddlebrown;
+    text-decoration: none;
+    margin-left: 120px;
+
+}
+.header-logo{
+    height: 100%;
+    width: 20%;
+}
+nav{
+    width: 80%;
+    height: 100%;
+
+}
+
+.logo{
+    position: relative;
+    float: left;
+    width: 6vh;
+    height: 6vh;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    margin-left: 30px;
+}
+
+.nav1{
+    float: left;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.nav2{
+    float: right;
+    height: 100%;
+    padding-top: 15px;
+
+}
